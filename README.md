@@ -4,26 +4,25 @@
 
 Ce TP vise à consolider les apprentissages des chapitres 2 à 10 à travers la création d’un jeu interactif. Vous devrez :
 
-- Utiliser des fonctions importées (chapitre 2)  
-- Créer et structurer des sous-programmes (chapitre 3)  
-- Maîtriser les structures de contrôle (chapitres 4 à 7)  
-- Manipuler des listes efficacement (chapitres 8 à 10)
+- Comprendre et appliquer les listes
+- Comprendre et appliquer les tuples
+- Comprendre et appliquer les dictionnaires
+- Comprendre et appliquer l’extraction des données à partir d’un fichier
+- Utiliser des fonctions de Matplotlib
+- Récupération des données et préparation des graphiques
 
 ---
 
 ## Pondération
 
-Ce travail compte pour **15 % de la note finale**.
+Ce travail compte pour **20 % de la note finale**.
 
 ---
 
 ## Évaluation
 
 Voici la pondération des sections :
-- Partie 1 -> 5 
-- Partie 2 -> 5
-- Partie 3 -> 10
-- Partie 4 -> 10
+- 
 
 Voici les critères d'évaluations :
 - Respect des consignes  
@@ -50,21 +49,18 @@ Voici les critères d'évaluations :
 
 ## Contexte
 
-Vous êtes mandatés pour développer une version console du célèbre jeu **Morpion (Tic-Tac-Toe)**. 
-Le jeu se joue à deux joueurs, chacun prenant tour à tour une case dans une grille 3x3. 
-Le premier à aligner trois symboles identiques (horizontalement, verticalement ou en diagonale) remporte la partie. 
-En cas de grille pleine sans gagnant, la partie est déclarée nulle.
+Vous disposez d’un fichier nommé sportifs_data_enrichi.txt contenant les résultats d’évaluations physiques et physiologiques de 300 sportifs suivis à l’Institut National du Sport (INS). 
+Les noms et les données de ce fichier sont fictifs.
+Chaque ligne du fichier correspond aux résultats d’un sportif, avec les colonnes suivantes :
 
-Voici une démonstration du programme attendu :
-
-<img src="Demo.gif" alt="Demo" style="border: 2px solid black; width: 500px;" />
+ID, Nom, Prénom, Âge, Sexe, Discipline, VMA, VO2max, FC_REPOS, FC_MAX, PUISSANCE_MAX, AGILITE, FORCE_MUSCULAIRE, ENDURANCE, VITESSE_100M, RECUPERATION_1MIN, NIVEAU_STRESS
 
 ---
 
 ## Prérequis
 
 - Cloner le répertoire GitHub Classroom dans PyCharm (voir le document Git sur LÉA au besoin)  
-- Votre code doit être dans le fichier `tictactoe.py` fourni dans votre dépôt GitHub Classroom  
+- Votre code doit être dans le fichier `sportifs.py` fourni dans votre dépôt GitHub Classroom  
 - Inscrire le nom des membres de l'équipe, leur numéro de DA et leur nom d'utilisateur GitHub dans l'espace prévu à cet effet dans le fichier `tictactoe.py`
 
 ---
