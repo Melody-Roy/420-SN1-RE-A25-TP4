@@ -116,7 +116,7 @@ observations simples.
 
 **Q01 :** Créer une fonction nommée charger_donnees(nom_fichier). Cette fonction prend en paramètre le
 **nom d’un fichier** contenant les données des athlètes et retourne une **liste** formée des données
-des athlètes (bilans) et une **liste** (entetes) contenant les informations de l’entête sans le premier élément (sans ID).
+des athlètes (bilans) et une **liste** (entetes) contenant les informations de l’entête. Ces deux listes **ne doivent pas** contenir le premier élément (sans ID).
 Il est de votre responsabilité de définir la bonne structure (liste, dictionnaire ou autre, mais pas de
 DataFrame pandas) pour bilans adaptée pour stocker les données des athlètes.
 
@@ -134,12 +134,13 @@ DataFrame pandas) pour bilans adaptée pour stocker les données des athlètes.
 **Q03.** Afficher les 3 premiers bilans (lignes) du fichier pour avoir un aperçu du contenu.
 
 Votre affichage de la question Q02 et Q03 doit ressembler à ceci.
-![img.png](images/Q02-Q03.png)
 
-**Q04.** Calculer et afficher la moyenne des taux de : vitesse maximale aérobie, puissance maximale atteinte et le temps réalisé sur 100m. Votre
+<img src="images/Q02-Q03.png" alt="Demo" style="border: 1px solid black; width: 500px;" />
+
+**Q04.** Calculer et afficher la moyenne des taux de : vitesse maximale aérobie, puissance maximale atteinte et le temps réalisé sur 100m. Prenez soin de bien arrondir vos données. Votre
 affichage doit ressembler à ceci.
 
-![img.png](images/Q04.png)
+<img src="images/Q04.png" alt="Demo" style="border: 1px solid black; width: 200px;" />
 
 ---
 
