@@ -150,11 +150,11 @@ L’objectif de cette partie est de détecter les athlètes ayant des valeurs ho
 Toute valeur en dehors de ces seuils est considérée comme anormale.
 
 Seuils de référence (athlètes « normaux »)
-- VMA (km/h) : 16.0 – 20.0
-- VO2max (ml/min/kg) : 60 – 85
+- VMA (km/h) : 16.0 – 22.0
+- VO2max (ml/min/kg) : 55 – 85
 - FC_REPOS (bpm) : 40 – 70
 - FC_MAX (bpm) : ≤ 200
-- NIVEAU_STRESS (score) : ≤ 5.0
+- NIVEAU_STRESS (score) : ≤ 4.0
 
 On vous demande en premier de créer 5 constantes VMA, VO2MAX, FC_REPOS, FC_MAX et NIVEAU_STRESS.
 Chacune des constantes est sous forme de tuple dont la première valeur
@@ -172,11 +172,11 @@ Répondez aux questions suivantes. Vous pouvez tout faire en une seule boucle.
 
 Q07. Afficher le nombre d’athlètes ayant au moins une anomalie
 
-Q08. Combien d’athlètes ont une VMA trop élevée ou trop faible ?
+Q08. Combien d’athlètes ont une VMA hors seuil ?
 
-Q09. Combien d’athlètes ont un VO2max en dehors des seuils ?
+Q09. Combien d’athlètes ont un VO2max trop faible ?
 
-Q10. Lister les identifiants des athlètes ayant une VMA et un NIVEAU_STRESS élevés
+Q10. Lister les prénoms et noms des athlètes ayant une VMA et un NIVEAU_STRESS élevés
 
 Q11. Afficher le nombre de femmes et d’hommes dans l’échantillon
 
@@ -185,6 +185,8 @@ Q12. Quel est l’âge moyen des athlètes ayant une VMA élevée ?
 Q13. Quelle est la proportion de femmes parmi les athlètes ayant un NIVEAU_STRESS élevé ?
 
 Voici un aperçu du résultat attendu dont il faut respecter l’affichage
+
+<img src="images/Q05-13.png" alt="Demo" style="border: 1px solid black; width: 500px;" />
 
 ---
 

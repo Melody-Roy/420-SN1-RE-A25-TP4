@@ -1,301 +1,301 @@
 ID,Nom,Prénom,Âge,Sexe,Discipline,VMA,VO2max,FC_REPOS,FC_MAX,PUISSANCE_MAX,AGILITE,FORCE_MUSCULAIRE,ENDURANCE,VITESSE_100M,RECUPERATION_1MIN,NIVEAU_STRESS
-1,Dos Santos,Dominique,29,F,Athlétisme - Marathon,17.3,74,55,197,545,87,95,14.6,13.6,35,3
-2,Blanc,Stéphane,29,F,Athlétisme - Marathon,17.1,71,51,193,637,88,112,14.8,13.3,37,3
-3,Dias,Hortense,22,F,Athlétisme - Marathon,18.3,76,49,188,688,77,125,14.9,13.6,36,4
-4,Barbier,Anaïs,20,M,Athlétisme - Sprint,23.3,56,54,195,694,76,124,11.3,10.8,37,3
-5,Barthelemy,Marine,27,F,Football,20.5,61,44,190,611,88,109,12.9,11.9,37,4
-6,Muller,Timothée,25,F,Athlétisme - Marathon,18.2,70,43,200,626,84,122,15.0,13.2,30,4
-7,Goncalves,André,24,M,Natation,21.0,72,52,187,564,79,118,13.8,12.6,34,4
-8,Perrier,William,27,M,Athlétisme - Sprint,23.3,56,45,196,605,87,123,11.5,10.5,34,3
-9,Schmitt,Monique,24,F,Football,20.4,63,53,189,672,82,125,12.6,11.8,30,4
-10,Lecoq,Richard,19,M,Athlétisme - Marathon,18.5,78,46,193,528,78,121,15.2,13.6,36,4
-11,Morin,Émilie,30,F,Football,19.7,63,44,199,621,79,117,12.8,11.5,31,3
-12,Collet,Édith,19,M,Athlétisme - Sprint,23.9,56,51,199,503,89,125,10.8,10.2,30,3
-13,Carpentier,Matthieu,19,M,Athlétisme - Marathon,17.9,71,42,195,632,82,93,15.2,13.8,30,3
-14,Thibault,Martine,25,F,Natation,20.4,72,49,197,499,79,105,13.9,12.7,34,3
-15,Fernandez,Valérie,24,F,Natation,19.6,68,48,200,536,90,91,13.2,12.6,35,3
-16,Munoz,Olivier,18,M,Athlétisme - Marathon,17.9,77,52,193,612,76,103,14.6,13.8,32,2
-17,Chrétien,Michelle,19,F,Natation,21.0,73,51,189,500,87,93,13.5,13.0,31,3
-18,Chauvet,Michèle,19,F,Athlétisme - Marathon,17.6,76,54,202,748,84,93,14.7,13.0,30,2
-19,Coulon,Michel,21,M,Athlétisme - Sprint,23.2,56,47,190,589,82,125,11.0,10.3,37,4
-20,Brun,Antoine,27,F,Football,19.7,62,53,197,620,83,97,12.4,11.7,29,2
-21,Robert,Daniel,20,M,Athlétisme - Sprint,23.8,54,53,195,678,87,115,11.3,10.8,32,4
-22,Peron,Émile,28,F,Athlétisme - Marathon,18.8,78,53,194,576,80,120,15.1,13.5,29,3
-23,David,Agnès,23,M,Athlétisme - Marathon,18.4,77,49,199,696,87,97,15.4,13.5,33,2
-24,Normand,Anastasie,24,F,Natation,19.5,71,43,197,551,79,106,14.0,12.9,31,4
-25,Germain,Véronique,24,F,Natation,20.0,73,43,189,683,85,112,13.8,12.9,33,2
-26,Lejeune,Éric,20,M,Athlétisme - Marathon,18.6,76,49,200,579,85,91,14.5,13.6,36,2
-27,Le Roux,Anne,25,F,Athlétisme - Marathon,17.5,75,49,202,747,89,94,15.0,13.8,31,4
-28,Ferrand,Rémy,23,M,Football,20.5,60,44,196,629,78,119,12.4,11.6,36,3
-29,Lefèvre,Diane,20,F,Athlétisme - Sprint,22.8,55,47,189,649,84,109,10.7,10.3,29,3
-30,Ribeiro,Pénélope,20,F,Football,20.7,60,54,199,637,79,115,12.3,11.7,35,3
-31,Pons,Corinne,28,F,Athlétisme - Marathon,18.7,74,49,187,592,87,92,15.1,13.0,32,2
-32,Dumont,Thibaut,26,M,Natation,20.7,70,52,193,523,89,106,13.4,12.9,32,4
-33,Delorme,Adrienne,27,F,Athlétisme - Marathon,18.3,70,50,191,612,90,107,15.3,13.6,29,2
-34,Schmitt,Michelle,22,F,Natation,20.7,68,48,198,745,86,104,13.3,12.7,34,4
-35,Martel,Cécile,30,F,Athlétisme - Sprint,22.2,53,46,195,664,87,110,10.6,10.8,28,3
-36,Bouchet,Valérie,28,F,Athlétisme - Marathon,18.7,78,48,194,484,79,99,14.8,13.8,35,3
-37,Fischer,Véronique,25,F,Football,20.9,60,45,198,507,78,121,12.6,11.6,28,2
-38,Moreau,Céline,25,F,Athlétisme - Marathon,17.8,77,45,197,697,85,107,15.3,13.1,28,4
-39,Chauveau,Véronique,21,F,Athlétisme - Sprint,22.8,52,51,189,710,82,94,10.6,10.6,31,4
-40,Launay,Zoé,25,M,Athlétisme - Marathon,18.2,73,43,190,583,85,99,14.9,13.8,28,3
-41,Bourgeois,Caroline,19,F,Football,20.5,65,50,200,533,80,101,12.7,11.5,33,4
-42,Guibert,Christiane,30,F,Football,20.8,60,54,191,727,90,99,13.0,11.9,33,4
-43,Boyer,Christophe,28,F,Natation,20.4,70,47,189,676,83,113,13.6,12.9,30,4
-44,Peltier,Pauline,23,F,Athlétisme - Marathon,17.0,72,53,200,500,90,114,14.6,13.1,28,2
-45,Martin,Thierry,23,M,Natation,19.4,71,51,194,636,81,102,13.2,12.5,32,2
-46,Vincent,Lucie,30,F,Natation,20.5,68,46,194,611,87,104,13.4,13.0,28,4
-47,Blanchet,Alex,19,M,Football,20.7,60,45,188,534,79,112,12.6,11.8,33,3
-48,Boutin,Juliette,20,F,Athlétisme - Sprint,22.6,57,52,202,590,78,100,10.9,10.5,34,4
-49,Bousquet,Édith,26,M,Natation,20.6,69,54,200,665,76,107,13.9,12.6,37,4
-50,Maillot,Isaac,24,M,Athlétisme - Marathon,18.1,70,46,190,682,90,121,14.8,13.4,31,2
-51,Collet,Gilles,28,M,Football,20.5,62,53,197,639,85,122,12.3,11.6,36,4
-52,Ollivier,Matthieu,24,M,Athlétisme - Marathon,18.6,75,51,197,575,79,125,15.0,13.9,31,4
-53,Carpentier,Frédéric,23,M,Natation,20.1,70,49,202,678,84,114,13.8,12.8,35,4
-54,Bodin,Pierre,26,F,Natation,19.5,72,44,198,597,78,107,13.6,12.5,35,3
-55,Lenoir,Martine,28,F,Football,19.5,64,43,190,532,78,110,12.2,11.7,34,3
-56,Denis,Alphonse,22,F,Athlétisme - Sprint,22.7,52,52,188,627,80,108,10.7,10.4,33,2
-57,Guilbert,Mathilde,26,F,Athlétisme - Marathon,17.5,77,45,201,593,88,92,14.6,13.3,31,3
-58,Dupuis,Céline,23,F,Athlétisme - Sprint,22.2,59,50,187,590,87,125,11.1,10.3,32,3
-59,Joly,Arnaude,29,F,Athlétisme - Sprint,23.0,60,51,202,579,89,124,11.3,10.5,35,4
-60,Weber,Chantal,24,M,Athlétisme - Marathon,18.9,70,47,198,554,87,98,15.0,13.9,28,2
-61,Hamel,Maggie,19,F,Athlétisme - Sprint,22.7,59,46,195,525,85,121,11.0,10.4,37,2
-62,Briand,Constance,18,F,Athlétisme - Sprint,23.2,52,55,187,613,78,97,10.5,10.3,28,3
-63,Imbert,Jacqueline,24,F,Athlétisme - Marathon,17.3,70,50,192,588,90,105,14.8,13.4,29,4
-64,Pereira,Pénélope,27,F,Natation,19.4,74,42,191,717,87,90,13.2,12.5,28,4
-65,Pichon,Danielle,22,F,Natation,20.3,70,44,201,614,75,114,13.2,12.7,29,2
-66,Maréchal,Margaud,22,M,Athlétisme - Marathon,18.5,74,51,200,572,82,103,14.5,13.3,28,4
-67,Georges,Nathalie,27,F,Athlétisme - Marathon,18.5,78,43,191,658,78,102,14.9,13.9,36,4
-68,Humbert,Charlotte,26,F,Natation,21.0,71,52,187,709,86,110,13.8,12.6,32,3
-69,Navarro,Chantal,28,M,Athlétisme - Sprint,23.7,54,50,192,671,87,113,11.4,10.6,35,3
-70,Allain,Olivier,24,M,Athlétisme - Marathon,17.1,76,48,195,600,84,106,15.1,13.4,30,2
-71,Salmon,Martin,25,M,Athlétisme - Sprint,23.7,56,44,197,552,75,106,11.2,10.3,32,2
-72,Seguin,Marthe,19,F,Football,20.1,62,42,187,483,90,114,12.5,12.0,37,4
-73,Thomas,Nicole,27,F,Football,20.1,61,42,201,732,75,122,12.5,11.9,28,4
-74,Rémy,Édith,20,M,Athlétisme - Sprint,22.8,55,54,190,600,85,96,11.3,10.2,28,2
-75,Guillet,Thérèse,29,F,Natation,19.4,69,44,188,571,81,97,13.4,12.6,29,3
-76,Gosselin,Alexandria,28,F,Athlétisme - Marathon,18.8,73,51,187,639,90,101,14.7,13.7,34,4
-77,Costa,Maggie,18,F,Athlétisme - Sprint,23.4,53,45,201,745,78,120,10.6,10.8,31,4
-78,Paris,Daniel,23,M,Athlétisme - Marathon,17.7,73,47,200,642,88,102,14.8,13.1,33,3
-79,Renault,Henri,25,M,Athlétisme - Marathon,18.4,76,50,200,554,75,121,15.4,13.4,33,3
-80,Guillon,Marcelle,29,F,Athlétisme - Marathon,17.7,74,54,199,634,89,107,14.9,13.7,31,3
-81,Lemonnier,Éric,25,M,Athlétisme - Marathon,17.9,78,43,196,626,80,115,15.5,13.4,33,4
-82,Denis,Céline,30,F,Athlétisme - Sprint,22.8,60,51,188,631,84,97,11.4,10.5,33,4
-83,Lemonnier,Chantal,26,M,Football,20.3,63,47,198,725,82,101,12.9,11.9,28,3
-84,Dupuis,Grégoire,30,F,Natation,20.9,69,50,201,594,86,118,13.1,12.9,34,2
-85,Joseph,Nicole,19,F,Athlétisme - Marathon,17.5,75,46,198,507,78,102,15.3,13.3,31,4
-86,Guillou,Marine,19,F,Natation,19.1,74,51,198,691,83,104,13.6,12.8,36,4
-87,Chevalier,Tristan,20,M,Athlétisme - Sprint,23.0,58,55,192,499,88,103,10.6,10.4,36,3
-88,Marie,Anastasie,28,F,Athlétisme - Sprint,22.0,59,42,188,531,76,102,10.8,10.6,33,3
-89,Gros,Margot,21,M,Athlétisme - Marathon,17.4,72,52,196,587,78,99,15.3,13.3,28,3
-90,Léger,Christophe,24,F,Athlétisme - Marathon,17.9,71,51,197,647,89,109,15.3,13.4,37,3
-91,Rey,Susan,20,M,Athlétisme - Sprint,23.2,52,48,187,552,84,115,10.9,10.7,29,3
-92,Bodin,Georges,25,M,Athlétisme - Sprint,23.7,59,48,201,592,83,123,11.0,10.2,33,3
-93,François,Maurice,18,F,Football,20.7,63,45,191,563,77,94,12.7,11.9,34,4
-94,Julien,Marie,22,F,Natation,20.7,72,48,192,712,87,113,13.9,12.7,35,3
-95,Lucas,Laure,26,F,Athlétisme - Marathon,18.5,76,51,190,704,79,101,15.2,13.9,34,4
-96,Étienne,Nath,20,M,Natation,19.5,69,42,190,701,81,109,13.8,12.8,35,4
-97,Barbe,Joseph,22,M,Athlétisme - Sprint,22.9,53,54,201,715,88,91,10.9,10.8,34,4
-98,De Sousa,Gilbert,27,M,Athlétisme - Marathon,18.2,76,48,192,492,79,118,15.0,13.2,30,4
-99,Lemaire,Nicole,25,F,Athlétisme - Sprint,23.0,56,44,198,609,80,90,11.5,10.6,35,2
-100,Robert,Théophile,27,F,Athlétisme - Sprint,23.6,52,54,189,687,85,121,10.8,10.2,37,2
-101,Daniel,Léon,23,M,Athlétisme - Sprint,23.6,52,43,197,656,84,91,10.6,10.2,31,2
-102,Brun,Inès,20,M,Natation,19.6,68,52,190,649,84,93,13.5,12.5,28,4
-103,Gosselin,Aurélie,21,F,Football,19.2,63,43,202,599,81,122,12.3,11.9,29,4
-104,Nicolas,Raymond,18,M,Football,19.3,62,49,201,723,87,118,12.2,11.9,31,2
-105,Hebert,Luce,18,F,Athlétisme - Marathon,18.9,77,53,190,505,90,122,14.7,13.5,34,3
-106,Ferreira,Philippine,22,F,Football,20.9,61,53,194,627,85,111,12.3,11.9,32,3
-107,Albert,Bernadette,30,F,Natation,19.4,69,48,198,541,77,125,13.4,12.9,37,2
-108,Charpentier,Marguerite,29,F,Athlétisme - Sprint,22.5,60,47,187,588,77,108,11.0,10.6,34,2
-109,Lamy,Alice,19,F,Football,20.1,64,46,199,517,88,125,12.2,12.0,31,3
-110,Bonnin,Élise,28,F,Athlétisme - Marathon,17.5,74,52,189,598,81,125,15.2,13.1,28,4
-111,Descamps,Isaac,24,M,Football,20.6,65,47,197,500,89,100,12.2,11.6,34,4
-112,Sanchez,Xavier,23,M,Athlétisme - Sprint,22.6,52,47,201,526,87,114,10.6,10.4,31,2
-113,David,Nicolas,30,M,Natation,20.1,71,55,188,551,79,95,13.9,13.0,34,2
-114,Ollivier,Arthur,27,M,Athlétisme - Marathon,17.4,70,55,187,745,77,95,15.4,13.8,28,3
-115,Royer,Guy,28,M,Natation,19.7,69,54,190,593,75,111,13.6,12.7,36,2
-116,Hardy,Olivie,21,F,Athlétisme - Sprint,23.8,59,47,199,640,83,104,11.3,10.2,37,4
-117,Noël,Aurélie,30,F,Football,19.3,62,47,201,556,82,124,12.8,11.6,36,3
-118,Étienne,Auguste,29,F,Natation,20.9,70,50,191,647,86,99,13.2,12.8,32,4
-119,Jacquot,Joséphine,23,F,Athlétisme - Sprint,23.5,60,53,198,503,90,109,11.4,10.2,34,2
-120,Nicolas,Valérie,28,F,Athlétisme - Sprint,23.2,57,43,202,553,84,104,11.3,10.5,28,3
-121,Guibert,Laetitia,25,F,Athlétisme - Marathon,18.7,72,44,191,560,83,107,15.0,13.1,28,2
-122,Pelletier,Catherine,29,F,Natation,20.4,69,55,200,621,75,122,13.6,12.6,31,2
-123,Roussel,Xavier,18,M,Athlétisme - Marathon,17.5,70,43,193,572,80,97,14.7,13.0,30,2
-124,Berthelot,Eugène,26,F,Natation,20.1,73,47,188,651,75,96,13.8,12.8,32,4
-125,Collet,Constance,21,F,Athlétisme - Marathon,17.9,70,47,189,710,82,111,15.3,13.3,37,3
-126,Hebert,Adrien,18,M,Athlétisme - Sprint,22.3,59,42,201,568,89,99,11.2,10.4,37,2
-127,Perrin,Thibaut,26,M,Athlétisme - Sprint,22.2,54,54,193,627,81,100,11.3,10.7,33,3
-128,Marchand,Laurent,19,M,Natation,19.7,70,53,196,729,75,110,13.6,12.9,29,4
-129,Hardy,Martine,27,F,Natation,19.5,73,43,196,605,84,92,13.2,12.7,34,2
-130,Turpin,Jeanne,27,F,Athlétisme - Marathon,18.6,77,50,192,730,90,110,15.4,13.5,31,2
-131,Mallet,Pierre,21,F,Athlétisme - Sprint,23.3,55,51,202,533,89,118,10.7,10.7,29,4
-132,Guichard,Gilbert,18,M,Natation,19.4,70,49,194,531,75,104,13.9,13.0,31,4
-133,Rodrigues,Gabriel,22,M,Natation,19.6,71,42,199,675,78,125,13.7,12.6,36,3
-134,Maréchal,Arnaude,19,F,Athlétisme - Marathon,18.5,74,42,188,675,79,99,15.4,13.7,30,3
-135,Guilbert,Margaret,24,M,Football,19.7,63,49,196,611,89,105,12.7,11.6,31,3
-136,Besson,Margaud,30,M,Football,20.4,65,46,194,598,89,98,12.5,12.0,36,3
-137,Mercier,Franck,25,M,Natation,19.0,71,51,189,728,82,104,13.8,12.5,30,4
-138,Jacquet,Marcelle,18,F,Football,20.1,61,45,188,581,80,121,12.8,11.9,34,4
-139,Wagner,Guy,24,M,Football,19.6,63,50,191,694,81,104,12.2,11.8,31,2
-140,Barthelemy,Charlotte,18,F,Athlétisme - Sprint,22.5,58,46,192,635,79,120,10.9,10.8,33,2
-141,Le Goff,Gérard,25,M,Natation,20.3,73,54,189,507,85,120,13.9,12.9,31,3
-142,Joubert,Lucas,18,M,Athlétisme - Sprint,23.6,60,42,193,528,79,104,11.3,10.2,35,3
-143,Moreno,Éric,28,M,Football,19.4,60,46,199,514,76,113,12.3,12.0,33,3
-144,Gilbert,Paulette,26,F,Athlétisme - Marathon,17.0,78,51,189,666,77,116,15.2,13.4,32,2
-145,Henry,Audrey,28,M,Athlétisme - Sprint,23.7,56,42,197,570,79,122,10.7,10.2,32,4
-146,Coste,Virginie,18,F,Athlétisme - Marathon,18.2,71,52,195,724,82,93,14.5,13.7,33,2
-147,Delorme,Brigitte,24,F,Athlétisme - Sprint,22.5,58,50,202,513,86,125,11.4,10.5,35,3
-148,Laporte,Émile,30,F,Athlétisme - Marathon,17.8,78,51,187,745,90,102,15.3,13.4,35,3
-149,Marchal,Maurice,24,F,Natation,19.1,74,48,197,615,83,103,14.0,12.7,33,4
-150,Bonnin,Marcel,22,M,Natation,20.5,71,42,201,626,87,124,13.8,12.6,29,3
-151,Meunier,René,27,M,Athlétisme - Marathon,18.5,73,42,190,505,80,119,15.0,13.6,35,4
-152,Monnier,William,26,M,Football,19.3,62,43,190,645,89,118,12.6,12.0,37,3
-153,Lamy,Juliette,27,F,Football,19.4,65,52,201,502,76,98,12.9,11.6,35,3
-154,Lopez,Corinne,24,F,Natation,19.8,73,47,199,490,76,115,13.4,12.7,33,4
-155,Bouvet,Alfred,26,M,Athlétisme - Marathon,18.5,77,53,198,659,84,118,15.5,13.5,34,2
-156,Paul,Sophie,30,F,Football,20.4,63,50,187,651,75,124,12.2,11.8,33,3
-157,Cousin,Frédérique,22,F,Natation,20.7,72,45,197,593,88,120,13.9,12.6,36,4
-158,Blot,Marcelle,30,F,Athlétisme - Marathon,18.6,78,46,202,529,76,96,15.0,13.9,34,2
-159,Delaunay,Anne,19,F,Athlétisme - Sprint,22.5,53,45,194,489,78,113,10.6,10.3,31,4
-160,Mallet,Audrey,18,M,Football,20.5,64,53,189,616,84,118,12.6,11.8,29,4
-161,Guillaume,Henriette,19,F,Natation,19.3,70,44,197,614,88,95,13.3,12.7,31,2
-162,Gaudin,Théophile,21,F,Natation,19.8,68,43,190,603,78,94,14.0,12.9,37,4
-163,Gonzalez,Alfred,27,M,Football,19.8,61,44,191,729,82,120,12.2,11.5,29,3
-164,Dias,Paulette,24,F,Football,19.6,63,50,200,664,89,105,12.6,11.9,28,3
-165,Garnier,Alice,20,F,Football,20.2,60,51,198,738,82,121,12.6,11.8,33,2
-166,Charpentier,Marcelle,21,F,Natation,20.5,69,49,196,506,84,90,13.3,12.7,35,4
-167,Hernandez,Joséphine,21,F,Natation,19.3,72,52,196,577,75,107,13.3,12.9,29,2
-168,Didier,Guy,29,M,Athlétisme - Marathon,18.4,78,51,190,552,81,105,15.3,13.8,29,3
-169,Martinez,Philippine,28,F,Athlétisme - Sprint,22.1,53,46,193,594,82,105,11.1,10.4,31,3
-170,Leblanc,Nathalie,25,F,Athlétisme - Sprint,23.1,58,53,202,558,89,121,11.3,10.7,29,3
-171,Perret,Martine,24,F,Athlétisme - Sprint,23.9,53,48,199,538,84,92,11.0,10.7,28,2
-172,Laine,Laurence,26,F,Natation,19.8,74,44,188,512,85,100,13.4,12.8,31,4
-173,Lucas,Andrée,24,F,Natation,20.2,73,49,188,583,90,114,13.1,12.9,35,2
-174,Salmon,Arthur,27,M,Football,19.4,63,55,191,670,87,101,12.5,11.9,36,3
-175,Vincent,Anastasie,21,F,Natation,20.0,69,42,194,577,87,91,13.2,12.8,28,4
-176,Moulin,Sabine,25,F,Football,20.2,64,43,191,732,85,97,12.9,11.9,36,3
-177,Garnier,Sophie,20,F,Athlétisme - Sprint,22.2,56,46,193,612,80,103,11.5,10.2,36,3
-178,Lévêque,Sophie,26,F,Athlétisme - Sprint,23.4,54,49,202,685,87,103,11.4,10.2,36,4
-179,Gérard,Frédérique,27,F,Athlétisme - Marathon,17.5,78,50,192,560,80,95,14.9,13.4,36,2
-180,Baron,Monique,20,F,Football,20.0,65,43,190,501,83,96,12.7,11.8,33,4
-181,Vidal,Yves,26,M,Athlétisme - Sprint,23.3,60,52,191,541,87,108,10.9,10.3,30,2
-182,Jean,Josette,27,F,Athlétisme - Marathon,18.8,78,55,191,522,84,92,14.6,13.5,34,3
-183,Meyer,Sophie,21,F,Athlétisme - Marathon,17.1,71,42,187,619,81,118,14.7,13.9,31,2
-184,Lejeune,Emmanuel,18,M,Athlétisme - Sprint,24.0,54,48,197,612,81,95,11.3,10.5,32,2
-185,Gallet,Olivie,20,F,Athlétisme - Marathon,18.6,75,53,187,632,86,92,14.7,13.6,36,2
-186,Masson,Emmanuelle,29,F,Athlétisme - Sprint,23.4,53,49,187,719,83,92,11.0,10.2,33,4
-187,Maréchal,Agnès,21,M,Natation,20.2,71,55,197,517,78,114,13.1,12.6,34,3
-188,Legendre,Georges,27,M,Natation,19.1,68,53,199,660,88,102,13.2,12.8,33,3
-189,Rodrigues,Véronique,24,F,Natation,19.8,72,47,197,607,78,116,13.2,12.6,30,4
-190,Blanc,Anne,19,F,Natation,19.2,68,42,192,668,77,97,13.8,13.0,31,2
-191,Diaz,Aurélie,24,F,Athlétisme - Marathon,17.8,78,51,195,528,75,109,15.4,13.2,28,2
-192,Gallet,Isabelle,20,F,Football,20.8,63,48,192,699,87,94,12.7,11.6,28,3
-193,Paris,Édouard,20,M,Athlétisme - Sprint,23.7,57,54,201,719,87,113,11.2,10.2,32,2
-194,Perrier,Tristan,24,M,Athlétisme - Sprint,22.9,60,48,193,515,85,124,11.2,10.7,37,3
-195,Bouvier,Marthe,18,F,Football,20.5,62,42,200,521,87,94,12.4,11.6,33,3
-196,Rolland,Susan,30,M,Athlétisme - Sprint,23.8,53,47,193,513,78,104,10.6,10.6,36,4
-197,Poulain,Monique,25,F,Athlétisme - Marathon,17.2,71,52,187,644,85,90,14.8,13.1,31,3
-198,Seguin,Antoinette,25,F,Athlétisme - Sprint,23.4,55,52,196,545,82,124,10.7,10.3,33,4
-199,Renaud,Zacharie,24,F,Athlétisme - Marathon,17.5,70,43,196,518,82,117,14.8,13.5,29,2
-200,Coste,Océane,21,F,Natation,20.4,72,54,189,681,87,118,14.0,12.9,32,3
-201,Pasquier,Alexandre,25,F,Athlétisme - Sprint,22.3,53,45,198,616,79,104,11.2,10.8,33,3
-202,Vincent,Jules,27,M,Football,20.6,64,51,189,494,88,97,12.8,11.6,32,3
-203,Duval,André,26,M,Athlétisme - Sprint,22.3,53,42,190,528,84,114,11.4,10.7,33,3
-204,Rocher,Laurent,28,M,Athlétisme - Sprint,23.5,60,51,202,630,84,98,11.3,10.5,34,3
-205,Pichon,Alexandria,21,F,Natation,19.2,68,44,198,623,79,110,13.8,12.5,31,3
-206,Grenier,Auguste,26,F,Athlétisme - Marathon,18.2,71,50,193,622,90,119,15.0,13.8,33,3
-207,Torres,Isabelle,20,F,Natation,20.3,68,53,189,716,76,98,13.8,12.6,36,3
-208,Berger,Marcel,25,M,Natation,19.0,73,44,193,523,88,116,13.1,12.9,37,4
-209,Pasquier,Marine,22,F,Football,19.2,64,54,191,592,88,120,12.3,11.9,36,3
-210,Duhamel,Vincent,26,M,Football,19.7,65,55,198,671,82,123,12.2,11.9,32,4
-211,Guyon,Marianne,20,F,Athlétisme - Marathon,17.7,73,54,200,729,86,103,14.6,13.3,31,4
-212,Faivre,Tristan,24,M,Natation,20.7,72,45,195,544,84,117,13.1,13.0,36,3
-213,Gimenez,Aimée,23,F,Athlétisme - Marathon,18.8,72,50,196,557,85,91,14.8,13.8,35,3
-214,Gérard,Roland,24,M,Natation,19.1,73,48,187,618,87,102,13.0,12.7,33,2
-215,Garcia,Alice,19,F,Athlétisme - Sprint,22.3,57,42,191,587,83,122,11.5,10.4,29,3
-216,Langlois,Henri,26,M,Natation,20.2,70,53,193,664,78,120,13.6,13.0,34,3
-217,Marchand,Alix,27,M,Athlétisme - Sprint,23.6,54,55,187,727,79,96,10.7,10.2,36,3
-218,Grondin,Zacharie,21,F,Athlétisme - Marathon,18.1,77,51,199,634,87,116,15.1,13.6,33,4
-219,Ruiz,Simone,20,F,Athlétisme - Sprint,22.9,58,54,192,722,76,91,11.3,10.7,31,4
-220,Teixeira,Patrick,22,M,Football,19.5,64,44,190,563,77,94,12.8,11.6,28,2
-221,Pottier,Marcel,28,M,Football,19.7,60,52,189,683,81,110,12.1,11.9,29,3
-222,Benoit,Valérie,19,F,Natation,20.4,70,55,191,663,82,100,13.2,12.8,31,3
-223,Guillaume,Gabriel,25,M,Natation,20.4,72,54,192,515,76,118,13.6,12.7,30,3
-224,Chevallier,Antoinette,24,F,Football,20.6,64,51,189,488,79,99,12.2,11.7,28,4
-225,Rolland,Margaret,26,M,Football,19.1,65,50,202,483,84,92,12.9,12.0,36,4
-226,Tanguy,Benoît,20,M,Football,19.5,63,42,195,632,81,92,12.8,11.9,32,3
-227,Millet,Isaac,23,M,Football,20.5,65,45,197,488,79,118,12.1,11.9,34,4
-228,Boulay,Martine,30,F,Football,19.9,60,51,194,614,84,94,12.4,11.6,32,2
-229,Lacroix,Cécile,22,F,Natation,20.0,72,52,193,672,76,117,13.3,12.7,35,3
-230,Guibert,Élisabeth,22,M,Natation,19.5,73,46,201,568,84,98,14.0,12.6,30,4
-231,Mace,Émilie,19,F,Athlétisme - Marathon,19.0,70,54,201,734,79,120,15.3,13.7,34,4
-232,Blanc,Véronique,18,F,Football,20.0,60,49,196,549,87,96,12.1,11.8,34,3
-233,Martin,Charlotte,19,F,Athlétisme - Marathon,18.4,72,48,190,678,81,103,15.5,13.5,35,4
-234,Pages,Denise,24,F,Natation,20.5,73,52,196,649,89,123,13.6,12.6,37,4
-235,Hardy,Michelle,30,F,Football,20.3,65,55,202,605,81,117,12.7,11.7,35,3
-236,Lopez,Alexandrie,22,F,Football,19.9,60,55,199,673,83,117,12.2,11.9,35,4
-237,François,Mathilde,26,F,Athlétisme - Marathon,18.4,76,47,200,707,90,114,14.6,13.3,33,2
-238,Fouquet,Dominique,30,F,Athlétisme - Marathon,18.6,72,45,188,697,89,111,15.3,13.6,37,3
-239,Pasquier,Adrienne,18,F,Football,20.7,64,54,190,707,76,115,12.6,11.6,29,2
-240,Raymond,Maurice,23,F,Football,20.3,64,44,199,587,89,115,12.0,11.9,35,3
-241,Descamps,Brigitte,21,F,Athlétisme - Marathon,18.6,73,44,199,643,75,109,14.9,13.8,36,4
-242,Dos Santos,Anne,26,F,Natation,20.7,69,54,190,743,88,123,13.3,12.7,33,4
-243,Letellier,Auguste,23,F,Athlétisme - Marathon,18.8,74,52,195,615,86,112,14.7,13.1,32,3
-244,Aubert,Marine,23,F,Athlétisme - Marathon,18.9,74,52,191,662,81,114,15.2,14.0,35,2
-245,Didier,Honoré,25,M,Athlétisme - Marathon,17.1,70,46,201,566,77,114,15.4,13.5,37,2
-246,Pages,David,29,M,Athlétisme - Sprint,23.8,58,47,197,695,78,95,11.3,10.6,35,4
-247,Delmas,Hélène,25,F,Athlétisme - Sprint,22.9,57,45,188,602,83,112,10.8,10.6,35,2
-248,Ledoux,Vincent,21,M,Athlétisme - Marathon,17.4,71,49,198,596,89,98,15.0,13.0,34,4
-249,Huet,Agathe,25,F,Football,20.0,60,55,195,484,87,120,12.8,12.0,29,2
-250,Pierre,Laurence,23,F,Natation,21.0,68,49,199,634,90,122,13.5,13.0,31,3
-251,Riou,Georges,20,M,Football,20.7,64,42,196,604,75,110,12.0,11.9,29,3
-252,Germain,Alice,20,F,Athlétisme - Sprint,23.6,60,49,188,545,83,94,11.4,10.6,35,4
-253,Courtois,Julien,19,M,Athlétisme - Marathon,17.3,75,50,189,601,83,105,15.0,13.7,28,2
-254,Charrier,William,19,M,Natation,20.5,69,53,191,748,80,98,13.9,12.5,36,3
-255,Rodriguez,Jacqueline,22,F,Athlétisme - Sprint,22.5,56,52,190,485,83,100,11.1,10.4,33,2
-256,Pages,Michel,21,M,Natation,20.3,68,47,188,737,86,106,13.3,12.7,37,3
-257,Morvan,Antoine,24,F,Athlétisme - Marathon,17.8,71,52,202,737,90,118,14.9,13.6,37,3
-258,Perrin,Luc,18,M,Football,20.2,63,43,189,541,76,94,12.4,11.6,28,4
-259,Monnier,Gilbert,26,M,Natation,19.6,68,47,201,702,83,124,13.2,12.8,37,4
-260,Bernier,Claire,22,F,Athlétisme - Marathon,18.6,73,46,200,510,81,116,15.2,13.3,31,4
-261,Dumont,Guy,27,M,Athlétisme - Sprint,22.4,60,52,190,605,80,90,11.3,10.4,28,3
-262,Diaz,Josette,29,F,Natation,20.8,68,45,190,504,82,98,13.2,12.7,29,4
-263,Dufour,Eugène,18,F,Athlétisme - Sprint,23.3,57,47,191,533,89,112,10.6,10.4,30,2
-264,Coste,Jacques,27,M,Football,20.7,64,46,192,703,88,124,12.4,11.8,37,3
-265,Wagner,Rémy,19,M,Football,19.8,62,50,190,683,78,109,12.0,11.5,34,3
-266,Chevallier,Hugues,20,M,Athlétisme - Sprint,22.7,57,52,198,509,77,100,10.8,10.6,31,4
-267,Lemaître,René,26,M,Football,19.8,63,43,187,592,81,116,12.4,11.9,32,4
-268,Paris,Joséphine,30,F,Natation,19.1,71,49,193,559,84,95,13.2,12.7,31,3
-269,Marchand,Emmanuel,18,M,Athlétisme - Marathon,17.6,78,53,190,522,76,124,15.1,13.5,32,2
-270,Millet,Renée,18,F,Natation,19.3,73,47,199,567,78,104,13.9,13.0,36,3
-271,Lacroix,Martin,18,M,Natation,19.2,73,42,193,531,89,114,13.3,12.9,34,2
-272,Delmas,François,18,M,Natation,19.5,71,51,201,481,87,92,13.6,12.7,35,4
-273,Delahaye,Philippe,28,F,Athlétisme - Sprint,23.3,57,44,199,528,79,98,10.9,10.6,33,2
-274,Petit,Valérie,24,F,Natation,20.6,68,43,188,514,77,102,13.4,12.9,31,2
-275,Schneider,Adélaïde,24,F,Natation,20.5,71,43,195,735,81,101,13.5,12.8,29,3
-276,Dos Santos,Marthe,21,F,Football,20.1,60,44,195,559,75,111,12.1,11.8,37,4
-277,Prévost,Michèle,29,F,Natation,19.9,68,55,196,701,89,99,13.7,12.8,30,4
-278,Fernandez,Noémi,19,M,Athlétisme - Marathon,18.3,70,48,196,612,75,95,15.3,13.5,35,2
-279,Fontaine,Grégoire,30,F,Natation,19.0,71,43,194,597,83,92,13.1,12.9,32,2
-280,Barre,Éric,25,M,Athlétisme - Sprint,22.5,60,45,202,481,81,103,11.2,10.7,33,4
-281,Le Roux,Dominique,22,F,Athlétisme - Marathon,18.5,76,48,197,598,89,118,15.0,13.3,28,3
-282,Gilbert,Alexandria,21,F,Natation,20.9,69,55,188,533,76,91,13.8,12.7,31,2
-283,Louis,Michel,30,M,Football,19.8,61,42,197,683,78,101,12.4,11.8,35,4
-284,Descamps,Nicole,27,F,Natation,20.0,68,42,200,504,89,111,14.0,12.6,33,4
-285,Devaux,Léon,20,M,Football,19.9,60,52,195,672,90,109,12.7,11.8,28,4
-286,Wagner,Christophe,29,F,Athlétisme - Marathon,19.0,78,49,193,557,79,124,15.0,14.0,35,3
-287,Rocher,Sabine,21,F,Football,20.3,63,54,194,628,84,125,12.1,11.7,37,4
-288,Hubert,Christelle,26,F,Athlétisme - Marathon,18.8,71,46,189,733,78,120,15.0,13.2,30,2
-289,Raynaud,Louise,28,F,Football,19.1,60,46,192,572,88,109,12.8,11.8,37,4
-290,Guérin,Claudine,20,F,Natation,20.9,73,51,194,569,75,116,13.9,12.5,31,2
-291,Martineau,Anne,26,F,Natation,19.8,73,43,201,527,80,105,14.0,13.0,30,3
-292,Descamps,Alex,22,M,Athlétisme - Marathon,17.4,77,50,199,745,80,91,14.6,13.2,37,4
-293,Lopes,Marc,19,M,Football,19.0,60,46,190,571,86,105,12.5,11.8,36,3
-294,Marie,Céline,30,F,Athlétisme - Sprint,23.9,56,55,191,565,89,99,11.4,10.5,34,4
-295,Legendre,Manon,22,M,Athlétisme - Sprint,23.0,57,45,201,542,75,98,10.5,10.3,33,4
-296,Dupont,Honoré,22,M,Football,19.8,62,46,195,616,89,103,12.8,11.9,32,2
-297,Blondel,Augustin,29,M,Football,20.9,62,49,192,612,86,105,12.8,11.7,34,2
-298,Chevalier,Patrick,26,M,Athlétisme - Sprint,23.3,60,55,189,581,78,102,11.1,10.7,28,4
-299,Descamps,Sabine,18,F,Natation,19.2,74,49,190,486,85,96,13.3,12.7,29,2
-300,Rodrigues,Léon,26,M,Athlétisme - Sprint,22.9,59,51,202,572,88,116,11.5,10.4,33,3
+1,Petitjean,Denise,30,F,Football,20.9,60,51,194,573,77,100,12.6,11.6,32,3
+2,Rousset,Aimée,29,F,Athlétisme - Marathon,17.1,73,48,201,594,84,104,15.3,13.3,29,2
+3,Ferrand,Renée,24,F,Football,20.8,65,46,191,556,90,118,12.7,11.8,28,2
+4,Blanc,François,29,M,Athlétisme - Sprint,22.4,55,46,192,549,84,116,10.6,10.7,33,3
+5,Delorme,Hélène,29,F,Athlétisme - Marathon,18.3,76,50,188,647,90,122,15.2,13.6,34,5
+6,Leclerc,Matthieu,27,M,Athlétisme - Marathon,18.3,77,47,201,516,82,92,15.1,13.1,36,4
+7,Grégoire,Nicole,21,F,Athlétisme - Sprint,22.6,53,42,195,745,79,124,10.8,10.8,37,2
+8,Perrin,Michelle,19,F,Athlétisme - Marathon,19.0,76,48,193,503,81,112,14.6,13.2,31,3
+9,Meyer,Éric,21,M,Natation,19.0,69,44,201,518,80,95,13.1,12.8,35,2
+10,Duhamel,Marie,26,F,Natation,20.8,69,54,201,744,90,122,13.8,12.7,34,3
+11,Antoine,Agnès,18,M,Athlétisme - Sprint,23.3,59,53,190,651,78,112,10.9,10.7,33,3
+12,Guichard,Honoré,23,M,Natation,19.2,70,52,196,730,84,120,13.2,12.6,34,4
+13,Vincent,Gilbert,23,M,Athlétisme - Sprint,23.5,54,55,202,658,75,119,11.2,10.7,35,5
+14,Michel,Isaac,18,M,Athlétisme - Marathon,18.8,74,54,189,481,77,122,14.6,13.1,31,2
+15,Leleu,Laurent,24,M,Natation,20.7,69,50,198,623,80,120,13.7,13.0,37,3
+16,Martineau,Raymond,26,M,Natation,19.0,68,53,187,483,83,101,13.6,12.5,30,5
+17,Didier,Jacqueline,29,F,Athlétisme - Sprint,22.6,53,50,201,644,78,100,11.2,10.2,37,4
+18,Carlier,Henri,30,M,Football,19.2,60,55,198,633,80,108,12.3,11.6,30,3
+19,Seguin,Suzanne,25,F,Athlétisme - Sprint,23.1,58,55,191,619,82,110,11.0,10.4,34,3
+20,Perret,Patricia,23,F,Natation,19.9,72,48,198,499,78,117,14.0,12.9,32,4
+21,Costa,Thomas,27,M,Athlétisme - Marathon,18.8,76,53,196,655,81,101,15.1,13.9,33,2
+22,Ferreira,Alfred,27,M,Athlétisme - Sprint,23.6,56,50,192,637,86,121,11.2,10.7,36,2
+23,Mace,Gabrielle,19,F,Athlétisme - Sprint,23.6,57,43,187,730,90,97,11.1,10.7,31,4
+24,Lucas,Joseph,22,M,Football,20.0,64,47,191,746,84,120,12.6,11.9,31,2
+25,Costa,Christophe,26,F,Football,19.3,65,50,188,601,89,112,12.7,11.6,37,3
+26,Martel,Catherine,29,F,Athlétisme - Sprint,23.7,60,55,189,705,75,91,11.3,10.2,31,5
+27,Hamon,Véronique,26,F,Natation,19.0,68,53,193,505,86,114,13.7,12.9,33,3
+28,Hamon,Édouard,21,M,Athlétisme - Sprint,22.4,58,42,187,684,87,101,11.1,10.2,36,5
+29,De Sousa,Jeannine,19,F,Football,19.1,64,44,188,514,84,116,12.6,11.6,31,4
+30,Weiss,Jules,29,M,Athlétisme - Sprint,22.1,60,50,194,512,76,98,10.6,10.5,36,4
+31,Weber,Josette,18,F,Athlétisme - Sprint,22.4,56,50,200,544,81,112,11.2,10.7,31,3
+32,Sanchez,Tristan,22,M,Athlétisme - Marathon,18.0,76,54,201,490,79,118,14.7,14.0,36,3
+33,Charrier,Nathalie,21,F,Natation,19.4,69,53,191,566,90,114,13.1,13.0,29,2
+34,Coste,Daniel,27,M,Athlétisme - Sprint,23.6,53,52,196,631,85,120,10.6,10.8,34,4
+35,Martins,Patrick,20,M,Athlétisme - Sprint,22.5,52,44,198,711,78,123,11.2,10.4,33,5
+36,Bègue,Inès,24,M,Athlétisme - Marathon,18.3,76,49,199,658,89,120,14.8,13.6,31,2
+37,Coulon,Véronique,21,F,Athlétisme - Sprint,22.8,54,45,190,720,89,117,10.8,10.7,36,2
+38,Alexandre,Gilles,18,M,Natation,20.9,70,51,187,539,90,106,13.8,12.6,32,2
+39,Lebreton,Renée,30,F,Athlétisme - Marathon,17.5,76,43,201,680,81,95,15.1,13.5,31,5
+40,Roger,Amélie,28,F,Natation,19.7,68,55,196,642,84,125,13.6,12.6,34,3
+41,Benoit,Roland,27,M,Athlétisme - Marathon,17.8,71,43,195,724,88,101,15.0,13.8,34,4
+42,Dijoux,Paul,18,M,Athlétisme - Marathon,17.7,71,43,201,527,87,105,14.9,13.5,31,3
+43,Roche,Marie,28,F,Athlétisme - Sprint,23.3,59,43,197,570,77,96,10.8,10.4,30,2
+44,Weiss,Daniel,19,M,Football,20.9,63,48,193,602,80,96,12.3,11.5,36,2
+45,Fontaine,Hortense,20,F,Natation,20.1,72,52,195,694,82,122,13.4,13.0,37,2
+46,Guillou,Gilbert,24,M,Athlétisme - Marathon,18.4,74,44,190,569,87,114,14.7,13.5,28,5
+47,Mathieu,Laurence,25,F,Football,20.4,64,46,200,705,75,115,12.4,11.8,37,5
+48,Lévy,Benoît,27,M,Natation,20.4,70,46,195,486,78,113,13.0,12.8,37,5
+49,Meyer,Geneviève,25,F,Athlétisme - Marathon,17.3,77,55,193,743,88,110,14.7,13.8,33,2
+50,Garnier,Martine,25,F,Athlétisme - Sprint,23.4,53,46,197,624,90,110,11.4,10.6,28,3
+51,Perrin,Aimé,27,M,Natation,19.1,73,51,200,737,83,122,14.0,12.7,29,4
+52,Colin,Nathalie,24,F,Football,19.9,62,48,189,665,89,99,12.2,11.7,34,5
+53,Cousin,Gabrielle,21,F,Athlétisme - Marathon,17.5,71,49,193,715,76,104,15.5,13.7,37,3
+54,Valette,Auguste,20,F,Football,20.9,61,53,196,537,85,107,12.0,11.6,36,4
+55,Joly,Gabrielle,19,F,Athlétisme - Marathon,18.3,71,45,197,748,83,105,15.2,13.4,28,2
+56,Blanchet,Odette,20,F,Natation,20.2,69,45,197,646,82,124,13.3,12.5,36,3
+57,Laurent,Caroline,20,F,Natation,19.7,70,52,196,642,75,107,13.3,12.9,36,5
+58,Marques,Xavier,25,M,Natation,19.5,71,42,197,536,90,125,13.9,12.6,31,5
+59,Picard,Marine,20,F,Athlétisme - Sprint,23.3,53,54,195,738,80,99,10.5,10.5,31,4
+60,Duhamel,Nathalie,19,F,Natation,19.7,69,54,191,519,86,111,13.4,12.9,36,3
+61,Denis,Benjamin,25,M,Football,20.1,65,52,202,693,79,95,12.5,11.9,32,2
+62,Lucas,Eugène,20,F,Athlétisme - Sprint,22.1,56,45,195,747,82,110,11.0,10.6,34,2
+63,Rousseau,Patrick,18,M,Natation,20.9,71,43,196,586,90,104,13.4,12.6,37,3
+64,Lambert,Hugues,28,M,Athlétisme - Marathon,18.7,74,48,197,556,79,119,15.3,13.1,37,4
+65,Munoz,Gabriel,18,M,Athlétisme - Sprint,22.7,55,50,192,560,90,107,10.7,10.6,29,4
+66,Barbe,Agathe,28,F,Athlétisme - Sprint,22.8,59,50,202,513,86,93,11.1,10.4,30,4
+67,Boulay,Nicole,26,F,Football,20.2,65,44,191,624,78,90,12.6,11.5,30,3
+68,De Sousa,Jacques,18,M,Athlétisme - Marathon,18.8,75,48,199,539,81,110,14.9,13.2,31,4
+69,Lopez,Marine,28,F,Natation,19.2,69,48,192,484,78,109,13.4,12.7,29,3
+70,Guibert,Alex,26,M,Natation,20.0,70,48,201,490,90,110,13.3,13.0,33,3
+71,Gosselin,Alix,25,M,Natation,20.1,71,44,196,633,83,99,13.2,12.5,31,4
+72,Lemaître,Martine,29,F,Natation,20.8,71,45,188,528,76,122,13.1,12.7,28,2
+73,Pruvost,Michèle,28,F,Natation,19.6,73,45,193,502,89,103,14.0,13.0,33,5
+74,Joubert,Roger,19,M,Athlétisme - Sprint,23.2,52,44,197,625,77,97,11.0,10.4,29,4
+75,Valette,Antoine,22,F,Natation,19.1,71,50,198,615,86,91,13.9,12.5,32,4
+76,Perrin,Gabriel,21,M,Athlétisme - Marathon,17.9,76,54,188,558,76,116,14.7,13.8,37,4
+77,Dubois,Camille,29,F,Athlétisme - Sprint,23.8,54,48,194,533,79,106,10.9,10.3,36,4
+78,Laine,Thibault,29,M,Athlétisme - Marathon,17.7,71,43,188,483,89,101,14.9,13.4,30,2
+79,Lamy,Zoé,19,M,Natation,20.0,69,44,200,597,77,90,13.6,12.7,37,2
+80,Fabre,Alphonse,26,F,Athlétisme - Marathon,17.0,72,48,194,636,88,112,14.8,13.8,28,2
+81,Valentin,Virginie,19,F,Athlétisme - Marathon,18.4,77,52,200,506,77,103,15.1,13.8,33,5
+82,Guillaume,Élodie,27,F,Athlétisme - Sprint,23.9,57,45,195,525,82,101,10.8,10.2,34,2
+83,Duhamel,Alain,24,M,Football,19.7,65,55,199,684,75,94,12.9,11.9,35,2
+84,Perez,Anastasie,19,F,Athlétisme - Marathon,17.9,76,50,187,680,82,109,14.7,13.2,29,2
+85,Valette,Noémi,28,M,Athlétisme - Marathon,17.6,70,49,191,574,88,121,15.2,13.2,32,2
+86,Barre,Astrid,25,M,Athlétisme - Marathon,17.1,75,50,191,594,87,125,15.2,13.7,36,3
+87,Allain,Sabine,25,F,Football,19.3,62,54,197,571,76,115,12.6,11.5,30,4
+88,Fernandes,François,24,M,Football,20.7,61,42,195,716,86,108,12.2,11.7,29,2
+89,Lesage,Élodie,22,F,Football,20.6,63,49,199,620,88,120,12.7,11.9,30,4
+90,Martin,René,26,M,Athlétisme - Sprint,23.7,56,43,200,587,86,99,10.6,10.7,36,2
+91,Carlier,Adélaïde,30,F,Athlétisme - Sprint,22.7,59,42,187,689,89,95,10.8,10.6,35,4
+92,Descamps,Adrien,26,M,Athlétisme - Marathon,17.6,71,48,195,590,79,107,15.1,13.6,36,3
+93,Allard,Margaux,19,M,Athlétisme - Marathon,17.7,70,43,197,582,82,106,14.7,13.7,28,5
+94,Devaux,Étienne,19,F,Athlétisme - Sprint,23.4,52,52,197,686,86,114,10.8,10.7,30,2
+95,Faure,Jérôme,18,F,Natation,19.3,74,54,187,563,78,90,13.7,12.6,32,3
+96,Rousseau,Michelle,22,F,Athlétisme - Marathon,17.2,74,49,189,652,82,104,14.6,13.3,28,5
+97,Giraud,Lucie,25,F,Football,19.6,60,48,193,750,82,99,12.3,11.6,30,4
+98,Laurent,Michelle,28,F,Football,20.8,65,52,202,604,86,118,12.1,11.8,32,5
+99,Leconte,Alain,28,M,Football,19.1,64,48,191,566,90,109,12.8,11.7,36,5
+100,Mace,Nathalie,23,F,Natation,19.7,69,55,202,616,81,103,14.0,12.8,35,4
+101,Samson,Arnaude,24,F,Athlétisme - Marathon,17.0,77,51,191,610,90,102,15.2,13.1,32,3
+102,Lacombe,Richard,25,M,Natation,20.6,68,49,196,506,83,107,13.2,12.5,30,2
+103,Chauveau,Alexandria,30,F,Football,19.2,63,51,190,614,80,96,12.8,11.7,36,2
+104,Dupuis,Monique,26,F,Athlétisme - Sprint,23.1,53,54,192,585,85,98,10.9,10.2,35,4
+105,Denis,Aimée,26,F,Natation,19.9,71,48,196,724,80,125,13.3,12.9,33,5
+106,Ollivier,Isabelle,24,F,Athlétisme - Marathon,18.1,71,53,190,705,75,103,14.7,13.1,32,4
+107,Fernandes,Yves,30,M,Athlétisme - Marathon,17.1,76,46,199,600,82,101,15.1,13.2,29,2
+108,Gomez,Laurence,18,F,Football,20.9,64,47,190,484,77,91,12.5,11.9,32,4
+109,Marty,Adrien,23,M,Natation,19.5,71,47,196,702,90,101,13.1,12.7,29,5
+110,Bonnin,Michèle,19,F,Natation,20.2,68,55,193,494,89,124,13.8,12.9,33,4
+111,Carpentier,Thibaut,28,M,Football,20.4,61,52,195,558,89,97,12.5,11.6,31,5
+112,Goncalves,Richard,18,M,Natation,19.7,71,52,191,571,76,91,13.2,12.6,30,4
+113,Guillon,Pierre,26,F,Athlétisme - Sprint,23.8,56,48,202,502,88,125,11.5,10.4,33,2
+114,Goncalves,Honoré,20,M,Football,19.8,61,47,202,666,85,92,12.6,12.0,31,4
+115,Denis,Jeannine,26,F,Athlétisme - Sprint,22.2,60,44,188,606,77,123,10.8,10.4,34,4
+116,Rodriguez,Adrienne,27,F,Athlétisme - Marathon,17.7,75,50,198,520,89,107,15.3,13.6,35,4
+117,Fleury,Henri,26,M,Football,20.9,63,55,187,644,81,124,12.7,11.6,33,4
+118,Lemaître,Andrée,24,F,Athlétisme - Sprint,23.2,52,42,196,508,75,120,10.7,10.6,32,3
+119,Leroux,Gabriel,18,M,Athlétisme - Sprint,23.8,56,51,191,673,82,119,11.3,10.6,36,5
+120,Maréchal,Dorothée,24,F,Athlétisme - Sprint,22.9,56,52,189,673,87,111,10.6,10.2,33,2
+121,Launay,Timothée,18,F,Athlétisme - Sprint,22.2,60,55,201,556,77,118,10.6,10.5,28,4
+122,Moreno,Sabine,18,F,Football,20.9,63,48,195,601,84,106,12.5,11.9,36,3
+123,David,Roger,30,M,Athlétisme - Sprint,22.7,52,53,202,623,89,94,11.2,10.8,28,3
+124,Rolland,Susanne,26,F,Football,20.2,62,47,189,511,75,113,12.7,12.0,33,5
+125,Carpentier,Guillaume,29,F,Football,20.7,65,51,193,719,76,96,12.3,11.7,30,3
+126,Hardy,Laure,21,F,Natation,20.2,74,44,200,685,87,125,13.5,13.0,33,5
+127,Traore,Isabelle,28,F,Football,20.2,62,43,194,482,78,123,13.0,11.8,30,4
+128,Bertin,Colette,23,F,Natation,19.9,74,55,195,605,76,121,13.4,12.5,28,2
+129,Delahaye,Céline,27,F,Athlétisme - Marathon,18.0,75,47,201,553,87,125,14.5,13.8,32,5
+130,Brun,Josette,25,F,Athlétisme - Marathon,18.8,71,49,191,602,89,109,15.0,13.1,29,5
+131,Lemoine,Alexandre,19,F,Football,19.3,63,51,192,532,82,118,12.9,11.6,30,3
+132,Rémy,Sébastien,23,M,Natation,19.6,69,46,200,556,87,104,13.8,12.8,30,5
+133,Hamel,Brigitte,19,F,Athlétisme - Marathon,18.6,77,50,189,746,84,114,14.8,13.1,30,4
+134,Garcia,Michèle,30,F,Athlétisme - Marathon,18.2,73,49,195,671,76,95,15.1,13.9,30,4
+135,Besnard,Susan,24,M,Athlétisme - Marathon,17.3,73,52,192,745,89,104,14.6,13.3,31,3
+136,Guyon,Claudine,26,F,Football,19.0,61,45,199,643,76,91,12.2,11.7,29,2
+137,Godard,Paul,20,M,Football,19.1,62,55,188,493,83,109,12.2,11.7,35,2
+138,Lefèvre,Thibault,18,M,Natation,20.5,72,51,192,580,75,96,13.9,12.6,32,3
+139,Dufour,Raymond,18,M,Natation,19.4,72,49,197,554,75,112,13.6,12.7,34,4
+140,Clerc,Aimée,23,F,Athlétisme - Marathon,18.2,72,48,194,728,88,110,15.1,13.3,32,3
+141,Ruiz,Pénélope,24,F,Athlétisme - Sprint,22.4,52,48,202,657,90,108,11.4,10.7,35,2
+142,Lacombe,Pierre,22,F,Football,20.0,60,44,195,715,89,122,12.8,11.7,30,2
+143,Philippe,Charles,26,M,Football,20.8,62,47,189,531,76,125,12.7,11.9,33,4
+144,Joly,Maryse,22,F,Natation,19.9,68,53,188,493,77,119,13.5,12.9,35,4
+145,Petit,Claude,22,F,Athlétisme - Marathon,18.0,77,47,195,676,81,101,14.8,13.6,34,3
+146,Duhamel,Éléonore,20,F,Natation,20.0,73,53,196,643,77,120,13.5,12.9,37,4
+147,Lesage,Léon,20,M,Athlétisme - Sprint,22.7,54,44,202,585,89,120,10.9,10.3,28,2
+148,Laine,Cécile,29,F,Athlétisme - Marathon,18.0,78,45,192,512,90,91,15.4,13.5,28,4
+149,Martinez,Émilie,19,F,Athlétisme - Sprint,22.1,60,47,190,681,89,105,11.2,10.3,30,2
+150,Martel,Simone,22,F,Athlétisme - Marathon,18.3,75,51,195,540,76,109,15.1,13.9,30,3
+151,Weber,Jérôme,30,F,Athlétisme - Marathon,18.2,72,46,201,573,82,117,15.2,14.0,35,2
+152,Fischer,Anaïs,28,M,Natation,19.8,71,42,190,505,76,103,13.2,12.7,32,4
+153,Roy,Laure,27,F,Football,19.7,63,42,198,643,89,123,12.7,11.5,35,5
+154,Evrard,Édith,24,M,Athlétisme - Sprint,22.0,57,49,198,653,86,97,10.7,10.6,37,2
+155,Delattre,Véronique,22,F,Football,19.4,63,55,200,575,88,102,12.1,11.6,36,5
+156,Lefort,Marguerite,24,F,Athlétisme - Marathon,17.8,74,42,195,526,88,111,15.5,13.4,35,3
+157,Blot,Dominique,29,F,Natation,19.3,70,45,196,533,79,108,13.1,12.9,29,5
+158,Besson,Dominique,24,F,Athlétisme - Sprint,22.2,54,43,194,664,81,109,10.5,10.7,35,4
+159,Guillaume,Océane,18,F,Football,19.3,60,46,192,504,88,103,12.7,11.7,29,3
+160,Guillot,Claudine,24,F,Natation,20.5,74,55,197,631,86,124,13.8,12.8,37,3
+161,Riou,Sylvie,24,F,Athlétisme - Sprint,23.3,58,50,193,679,79,91,10.7,10.3,29,5
+162,Laurent,Thibault,21,M,Athlétisme - Marathon,18.8,76,42,198,560,79,101,15.3,13.1,32,5
+163,Renault,Jacqueline,24,F,Football,20.9,61,48,196,729,85,124,12.3,11.6,30,3
+164,Seguin,Jeannine,24,F,Natation,19.2,72,53,190,739,78,96,14.0,13.0,37,4
+165,Marin,Henriette,23,F,Athlétisme - Marathon,17.1,77,51,189,720,79,109,15.4,13.1,29,4
+166,Couturier,Arnaude,20,F,Football,20.0,64,42,191,638,78,118,12.5,11.9,28,5
+167,Chauveau,Stéphanie,21,F,Athlétisme - Marathon,18.6,78,44,193,747,76,100,15.2,13.2,28,5
+168,De Sousa,Bernard,28,M,Athlétisme - Sprint,23.5,59,44,199,601,81,118,10.6,10.4,32,4
+169,Tanguy,Thibaut,20,M,Athlétisme - Sprint,23.6,57,51,187,653,80,116,10.6,10.8,33,2
+170,Marin,Alphonse,20,F,Natation,20.9,73,45,200,739,83,108,13.3,12.6,34,5
+171,François,Geneviève,27,F,Athlétisme - Marathon,18.7,77,55,196,607,83,121,15.0,13.8,33,4
+172,Ramos,Charles,28,M,Football,20.1,60,48,199,699,84,99,12.1,11.7,37,4
+173,Monnier,Hélène,24,F,Natation,20.8,69,47,188,661,79,96,13.2,12.7,35,3
+174,Carpentier,Théodore,24,F,Natation,20.1,73,48,201,707,78,118,13.1,12.7,34,5
+175,Launay,Denis,18,M,Athlétisme - Marathon,18.0,78,44,188,726,90,104,15.3,13.9,37,2
+176,Bernier,Patrick,29,M,Athlétisme - Marathon,17.9,77,44,201,506,76,99,15.3,13.1,31,5
+177,Couturier,Michelle,29,F,Natation,19.8,70,45,199,746,87,121,13.4,12.8,29,2
+178,Gaudin,Chantal,30,M,Natation,19.8,74,55,191,533,82,117,13.2,12.9,28,4
+179,Maurice,Adèle,27,F,Athlétisme - Marathon,17.6,74,55,191,491,77,110,14.8,13.5,36,2
+180,Bouchet,Christophe,27,F,Athlétisme - Sprint,23.2,55,45,193,539,83,110,11.2,10.7,31,3
+181,Loiseau,Aimée,23,F,Football,21.0,62,48,189,675,85,122,12.6,12.0,33,4
+182,Verdier,Bernadette,25,F,Natation,20.9,72,44,197,532,84,112,13.9,12.6,34,2
+183,Bonnet,Thomas,27,M,Natation,20.9,69,50,202,581,84,123,13.1,12.6,30,2
+184,Moreno,Diane,24,F,Football,20.1,64,46,189,576,85,116,12.6,11.7,34,3
+185,Roger,Olivier,26,M,Natation,20.4,68,52,188,567,77,91,13.6,12.8,30,2
+186,Pires,Bernadette,26,F,Football,19.6,62,42,197,634,88,122,12.3,11.8,36,3
+187,Langlois,Christine,24,F,Football,20.2,64,45,189,626,82,124,12.8,11.8,30,5
+188,Maillet,Pauline,22,F,Football,19.2,62,53,198,708,75,98,12.9,11.5,31,3
+189,Andre,Monique,27,F,Athlétisme - Marathon,18.3,71,54,200,518,90,115,14.6,13.5,33,3
+190,Guillou,Édith,21,M,Natation,20.9,74,50,192,601,85,100,13.7,12.7,29,3
+191,Pasquier,Anaïs,18,M,Football,20.0,61,52,190,659,89,107,12.8,11.6,33,4
+192,Parent,Louise,19,F,Athlétisme - Sprint,23.4,55,43,195,672,79,121,11.4,10.3,31,3
+193,Vaillant,Georges,19,M,Athlétisme - Sprint,22.3,59,53,191,698,87,120,10.7,10.5,34,4
+194,Teixeira,Adèle,28,F,Athlétisme - Marathon,17.5,73,53,193,632,76,107,14.8,13.6,35,2
+195,Paul,Robert,26,M,Athlétisme - Sprint,23.6,57,50,200,609,78,91,10.6,10.6,37,2
+196,Allain,Léon,30,M,Athlétisme - Sprint,23.6,54,50,192,531,80,104,11.3,10.8,36,5
+197,Rodriguez,Hélène,28,F,Athlétisme - Sprint,22.4,53,47,202,638,84,104,10.8,10.7,33,2
+198,Robin,Susan,27,M,Football,20.8,61,46,189,730,77,96,12.7,11.8,36,3
+199,Ferreira,Georges,23,M,Athlétisme - Marathon,18.9,70,55,192,609,81,123,15.3,13.5,37,2
+200,Boulay,Audrey,29,M,Athlétisme - Marathon,18.5,76,52,189,616,90,119,15.0,13.8,35,4
+201,Courtois,Thibault,28,M,Natation,19.2,68,55,197,693,82,90,13.0,12.5,29,4
+202,Ledoux,Adrienne,23,F,Athlétisme - Marathon,17.9,75,49,190,534,83,102,15.1,13.7,35,5
+203,Legendre,Laure,27,F,Athlétisme - Marathon,17.6,75,47,194,746,82,93,15.2,13.0,29,3
+204,Le Goff,Gérard,25,M,Football,20.8,64,51,197,582,89,116,12.1,12.0,28,3
+205,Rousseau,Antoine,26,F,Athlétisme - Sprint,22.2,54,55,193,571,83,93,10.8,10.6,29,2
+206,Perrin,Claire,21,F,Football,19.5,61,48,194,571,82,125,12.6,11.7,37,2
+207,Guillot,Marthe,30,F,Football,19.6,64,53,191,722,82,123,12.2,11.6,31,5
+208,Verdier,Margot,29,M,Football,19.4,61,52,195,718,79,100,12.2,11.6,30,5
+209,Caron,Noël,18,M,Football,20.3,62,49,199,510,90,123,12.9,11.7,28,4
+210,Lebrun,Bernadette,22,F,Football,19.7,62,50,194,736,86,99,12.9,12.0,29,3
+211,Coste,Renée,29,F,Natation,20.5,74,51,195,641,82,103,13.8,13.0,35,5
+212,Noël,Étienne,24,F,Natation,20.7,68,46,201,730,77,107,13.4,12.9,33,4
+213,Barbe,Susan,26,M,Athlétisme - Marathon,18.8,73,51,188,494,84,105,15.2,13.3,34,2
+214,Langlois,Hortense,20,F,Football,20.1,64,53,189,612,82,104,12.1,11.6,28,5
+215,Lombard,Geneviève,30,F,Football,19.7,61,51,200,571,75,114,12.4,11.6,31,5
+216,Renault,Océane,27,F,Natation,20.3,69,51,187,536,86,116,13.6,12.7,35,5
+217,Bouvier,Tristan,20,M,Football,20.1,61,51,192,592,88,92,12.7,11.7,34,2
+218,Maillet,Alexandre,24,F,Natation,20.6,71,50,197,544,78,115,13.1,12.9,34,5
+219,Lemonnier,Élodie,20,F,Athlétisme - Marathon,17.4,77,50,191,706,87,119,15.4,13.2,32,2
+220,Meunier,Éléonore,18,F,Football,20.7,63,47,191,592,76,98,12.6,11.9,35,5
+221,Fontaine,Anastasie,19,F,Athlétisme - Marathon,17.2,77,50,189,710,80,114,15.3,13.7,37,2
+222,Joly,Nathalie,27,F,Natation,20.5,70,52,190,718,90,109,13.9,12.7,32,4
+223,Peltier,Victoire,24,F,Football,20.1,64,54,197,579,79,111,12.4,11.6,32,3
+224,Guérin,Audrey,22,M,Athlétisme - Sprint,23.1,57,48,188,667,89,109,11.1,10.4,32,5
+225,Albert,Martin,28,M,Football,19.2,61,43,189,729,78,120,12.4,11.7,32,3
+226,Mendès,William,25,M,Athlétisme - Marathon,17.3,71,51,201,580,76,97,15.5,13.2,31,5
+227,Louis,Honoré,20,M,Football,19.1,63,47,201,567,85,90,12.6,11.8,30,3
+228,Lelièvre,Guillaume,25,F,Natation,20.8,70,48,187,706,85,116,13.5,12.9,31,4
+229,Ferreira,Michelle,22,F,Football,20.1,60,50,195,695,82,124,12.2,12.0,29,2
+230,Le Goff,Théophile,27,F,Athlétisme - Marathon,17.7,78,50,198,726,86,99,14.5,13.6,28,2
+231,Neveu,Valentine,19,F,Athlétisme - Sprint,22.4,52,49,199,626,83,105,11.0,10.5,35,5
+232,Collet,Océane,24,F,Athlétisme - Sprint,22.4,53,45,195,595,83,113,10.9,10.5,30,2
+233,Joly,Claudine,21,F,Football,19.6,64,54,190,487,86,96,12.1,11.5,30,4
+234,Dubois,Louis,27,M,Athlétisme - Sprint,22.5,54,54,197,685,90,108,11.4,10.6,36,3
+235,Lemaire,Virginie,23,F,Athlétisme - Marathon,17.9,76,52,190,629,77,106,15.4,13.4,30,5
+236,Roche,Raymond,21,M,Natation,20.0,71,50,187,676,88,95,13.7,12.9,31,3
+237,Ollivier,André,30,M,Athlétisme - Marathon,18.3,73,55,196,506,76,121,15.5,13.5,29,4
+238,Charpentier,Timothée,23,F,Football,19.9,63,43,190,652,81,108,12.5,12.0,35,5
+239,Charrier,Laurent,20,M,Football,19.7,64,51,192,619,89,107,12.3,11.7,29,4
+240,Maillard,Stéphanie,28,F,Athlétisme - Marathon,17.7,73,51,190,514,78,106,14.6,13.0,37,3
+241,Michel,Thierry,22,M,Athlétisme - Sprint,22.1,55,55,198,721,84,121,11.2,10.2,31,4
+242,Merle,Marine,26,F,Athlétisme - Sprint,22.1,56,47,194,674,81,116,10.9,10.3,30,4
+243,Barbe,Robert,20,M,Natation,19.2,74,55,200,638,83,99,13.8,12.8,30,3
+244,Muller,Zacharie,27,F,Athlétisme - Sprint,24.0,60,48,193,591,83,118,10.5,10.4,33,5
+245,De Sousa,Jeanne,24,F,Natation,20.7,69,47,200,700,89,113,13.9,12.6,34,4
+246,Mathieu,Julie,18,F,Athlétisme - Sprint,22.2,55,52,190,563,78,96,10.6,10.6,29,5
+247,Samson,Noémi,19,M,Natation,20.4,71,55,187,536,80,96,13.3,12.8,31,4
+248,Goncalves,Maurice,28,F,Natation,19.8,68,52,201,699,76,106,13.6,12.8,29,5
+249,Pons,Georges,27,M,Natation,20.9,70,55,201,545,88,123,13.8,12.8,37,4
+250,Blanchet,Corinne,21,F,Athlétisme - Sprint,23.5,58,43,192,692,87,104,11.4,10.3,30,5
+251,Lagarde,Susan,26,M,Football,20.2,62,42,187,499,84,103,12.3,11.9,30,4
+252,Perez,Susan,29,M,Athlétisme - Sprint,22.7,59,54,194,492,81,112,10.7,10.6,34,4
+253,Rodrigues,Jérôme,26,F,Athlétisme - Marathon,18.2,70,53,188,693,75,102,15.2,13.1,29,3
+254,Giraud,Claudine,19,F,Athlétisme - Sprint,23.5,56,42,195,511,89,113,11.3,10.5,32,2
+255,Charrier,Antoine,28,F,Athlétisme - Marathon,18.3,71,53,191,494,78,98,14.8,13.6,32,4
+256,Lopes,Auguste,29,F,Athlétisme - Marathon,18.7,78,51,193,748,81,104,15.4,13.0,35,2
+257,Boutin,Roland,28,M,Football,20.3,61,54,202,608,83,100,12.8,11.7,33,2
+258,Thierry,Marie,22,F,Athlétisme - Sprint,22.4,58,42,190,635,77,118,11.2,10.5,30,3
+259,Legrand,Julie,22,F,Athlétisme - Sprint,23.7,56,54,201,615,81,116,11.4,10.3,35,4
+260,Moulin,Benoît,29,M,Athlétisme - Marathon,17.1,73,55,198,582,83,123,15.1,13.4,29,4
+261,Marques,Amélie,23,F,Athlétisme - Marathon,17.6,78,51,201,613,80,123,14.6,13.2,35,4
+262,Martel,Thibault,21,M,Football,19.0,65,52,187,599,79,96,12.6,11.8,28,3
+263,Martins,Audrey,20,M,Natation,19.8,74,46,199,639,84,102,13.5,12.7,35,5
+264,Potier,Gabriel,30,M,Football,19.8,60,50,200,549,81,121,12.1,12.0,37,4
+265,Torres,Charles,20,M,Athlétisme - Sprint,23.9,56,54,200,523,83,105,11.2,10.2,33,4
+266,Vasseur,Odette,20,F,Natation,20.4,68,50,192,586,75,120,13.6,12.8,32,5
+267,Lévêque,Marcelle,27,F,Athlétisme - Marathon,17.6,72,45,188,635,81,110,15.3,13.3,34,3
+268,Baudry,Sabine,21,F,Natation,21.0,73,42,189,682,89,91,13.1,12.6,31,5
+269,Hoarau,Robert,24,M,Football,19.0,62,45,189,549,87,114,12.5,11.6,32,2
+270,Masse,Maurice,28,F,Natation,19.3,71,43,198,518,78,107,13.3,12.7,31,4
+271,Rodrigues,Alexandre,24,F,Athlétisme - Sprint,23.7,56,43,202,494,75,123,10.6,10.3,34,4
+272,Chauveau,Grégoire,30,F,Football,20.8,61,46,195,665,88,102,12.8,11.9,35,2
+273,Gauthier,Robert,28,M,Natation,19.2,74,53,198,677,88,98,13.5,12.6,31,2
+274,François,Thierry,27,M,Football,19.6,60,53,199,528,90,97,12.2,11.6,35,4
+275,Monnier,Isabelle,28,F,Football,19.8,65,43,202,497,86,92,12.7,11.7,37,2
+276,Étienne,Suzanne,19,F,Football,21.0,65,49,188,546,80,93,12.3,11.6,29,5
+277,Valette,Lucie,30,F,Athlétisme - Marathon,18.9,76,52,187,748,80,93,15.4,13.9,33,4
+278,Aubert,Valentine,20,F,Football,19.0,64,54,188,634,86,116,12.1,11.9,29,3
+279,Huet,Cécile,19,F,Natation,19.7,71,43,201,555,77,122,13.4,12.7,35,3
+280,Blondel,Margaud,18,M,Football,19.0,61,42,191,572,80,93,12.6,11.9,31,2
+281,Legendre,Alex,24,M,Athlétisme - Marathon,18.8,72,42,195,591,83,118,14.5,13.7,37,5
+282,Julien,Caroline,30,F,Athlétisme - Marathon,17.5,74,47,192,526,75,109,15.5,13.1,36,4
+283,Gomez,Denis,25,M,Athlétisme - Sprint,23.9,60,43,192,616,75,120,11.1,10.6,30,3
+284,Traore,Jules,20,M,Athlétisme - Marathon,18.4,78,53,202,684,82,99,14.9,13.8,35,5
+285,Daniel,Patrick,30,M,Natation,20.5,68,49,193,555,76,117,13.4,12.7,33,2
+286,Weber,Émilie,23,F,Athlétisme - Sprint,22.8,52,55,195,539,81,118,10.6,10.2,31,4
+287,Regnier,Mathilde,23,F,Athlétisme - Marathon,18.8,75,43,198,711,82,121,14.6,13.2,37,5
+288,Chevallier,Vincent,28,M,Football,19.6,63,42,193,637,88,91,12.2,11.7,33,4
+289,Bonneau,Tristan,30,M,Natation,19.9,73,43,200,515,82,90,13.5,12.9,34,2
+290,Pruvost,Victor,18,M,Natation,20.6,68,50,200,715,86,102,13.7,12.8,37,5
+291,Pineau,Augustin,25,M,Natation,19.4,71,45,198,607,83,90,13.3,12.9,29,2
+292,Rivière,Richard,25,M,Athlétisme - Marathon,18.3,77,44,188,739,90,124,14.8,13.3,35,3
+293,Dupuis,Constance,29,F,Natation,19.5,69,47,193,593,81,101,13.1,12.7,32,2
+294,Huet,Margaret,19,M,Natation,20.4,73,44,192,503,90,91,13.1,12.7,28,4
+295,Hamel,Claire,22,F,Athlétisme - Sprint,23.7,57,51,200,599,86,122,10.8,10.4,28,3
+296,Clerc,Cécile,19,F,Athlétisme - Marathon,17.6,70,53,197,728,86,101,14.8,13.4,35,3
+297,Morel,Manon,26,M,Athlétisme - Sprint,22.6,58,46,195,602,84,123,10.6,10.4,28,4
+298,Mahe,Eugène,24,F,Natation,20.2,72,53,202,612,83,114,13.0,12.7,35,4
+299,Gros,Martin,23,M,Athlétisme - Marathon,18.9,74,46,191,701,77,96,14.5,13.8,37,2
+300,Robert,Eugène,27,F,Athlétisme - Marathon,17.0,76,50,187,584,90,101,15.1,13.7,28,2

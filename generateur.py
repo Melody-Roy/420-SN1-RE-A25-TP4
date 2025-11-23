@@ -45,4 +45,4 @@ with open("sportifs_data_enrichi.csv", "w", newline="", encoding="utf-8") as f:
         writer.writerow([i, nom, prenom, random.randint(18, 30), sexe, discipline,
                          vma, vo2, random.randint(42, 55), random.randint(187, 202),
                          random.randint(480, 750), random.randint(75, 90), random.randint(90, 125),
-                         endurance, vitesse, random.randint(28, 37), random.randint(2, 4)])
+                         endurance, vitesse, random.randint(28, 37), random.randint(2, 5)])
