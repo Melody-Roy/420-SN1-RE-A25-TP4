@@ -114,18 +114,18 @@ ID, Nom, Prénom, Âge, Sexe, Discipline, VMA, VO2max, FC_REPOS, FC_MAX, PUISSAN
 L’objectif de cette partie est de lire le fichier, comprendre sa structure, et faire quelques
 observations simples.
 
-**Q01 :** Créer une fonction nommée charger_donnees(fichier). Cette fonction prend en paramètre le
-**nom d’un fichier** contenant les données des athlètes et retourne un **tuple** formé des données
-des athlètes (bilans) et une **liste** (entetes) contenant les informations de l’entête sans le premier élément (sans ID)
-il est de votre responsabilité de définir la bonne structure (liste, dictionnaire ou autre, mais pas de
-DataFrame pandas) pour bilans adaptée pour stocker les données des patients.
+**Q01 :** Créer une fonction nommée charger_donnees(nom_fichier). Cette fonction prend en paramètre le
+**nom d’un fichier** contenant les données des athlètes et retourne une **liste** formée des données
+des athlètes (bilans) et une **liste** (entetes) contenant les informations de l’entête sans le premier élément (sans ID).
+Il est de votre responsabilité de définir la bonne structure (liste, dictionnaire ou autre, mais pas de
+DataFrame pandas) pour bilans adaptée pour stocker les données des athlètes.
 
-|   | solution.py                  |
-|---|------------------------------|
-| 1 | def charger_donnees(fichier) |
-| 2 | # à compléter                |
-| 3 |                              |
-| 4 | return bilans, entetes       |
+|   | sportifs.py                      |
+|---|----------------------------------|
+| 1 | def charger_donnees(nom_fichier) |
+| 2 | # à compléter                    |
+| 3 |                                  |
+| 4 | return bilans, entetes           |
 
 *Faite appel à la fonction **charger_donnees** pour répondre aux questions suivantes :*
 
@@ -134,7 +134,7 @@ DataFrame pandas) pour bilans adaptée pour stocker les données des patients.
 **Q03.** Afficher les 3 premiers bilans (lignes) du fichier pour avoir un aperçu du contenu.
 
 Votre affichage de la question Q02 et Q03 doit ressembler à ceci.
-## TODO IMAGE
+![img.png](Q02-Q03.png)
 
 **Q04.** Calculer et afficher la moyenne des taux de : vitesse maximale aérobie, puissance maximale atteinte et le temps réalisé sur 100m. Votre
 affichage doit ressembler à ceci.
