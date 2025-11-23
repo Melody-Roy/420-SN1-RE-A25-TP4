@@ -134,12 +134,12 @@ DataFrame pandas) pour bilans adaptée pour stocker les données des athlètes.
 **Q03.** Afficher les 3 premiers bilans (lignes) du fichier pour avoir un aperçu du contenu.
 
 Votre affichage de la question Q02 et Q03 doit ressembler à ceci.
-![img.png](Q02-Q03.png)
+![img.png](images/Q02-Q03.png)
 
 **Q04.** Calculer et afficher la moyenne des taux de : vitesse maximale aérobie, puissance maximale atteinte et le temps réalisé sur 100m. Votre
 affichage doit ressembler à ceci.
 
-## TODO IMAGE
+![img.png](images/Q04.png)
 
 ---
 
