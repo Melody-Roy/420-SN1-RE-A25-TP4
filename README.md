@@ -144,35 +144,48 @@ affichage doit ressembler à ceci.
 
 ---
 
-### PARTIE 2 – Analyse et détection des étoiles
+### PARTIE 2 – Analyse et détection des athlètes hors normes
 
-Objectif de cette partie est de détecter les patients ayant des valeurs hors normes dans leur bilan à
-l’aide de seuils médicaux.
-Soit les seuils à utiliser pour les cas des patients normaux. Toute valeur en dehors de ces seuils est
-considérée comme anormale:
-• Glycémie (g/L) : 0.70 – 1.05
-• Hémoglobine (g/dL) : 13.0 – 17.0
-• Leucocytes (/mm³) : 4000 – 10000
-• Cholestérol total : ≤ 2.00 g/L
-• LDL : ≤ 1.00 g/L
-On vous demande en premier de créer 5 constantes GYCLEMIE, HEMOGLOBINE, LEUCOCYTES,
-CHOLESTEROL_TOTAL et LDL. Chacune des constantes est sous forme de tuple dont la première valeur
-consiste la valeur minimale et la deuxième valeur est la valeur maximale. CHOLESTEROL_TOTAL et
-LDL n’ont pas de valeur minimale. Dans ce cas mettez la valeur minimale à None.
+L’objectif de cette partie est de détecter les athlètes ayant des valeurs hors normes dans leur bilan sportif à l’aide de seuils de performance.
+Toute valeur en dehors de ces seuils est considérée comme anormale.
+
+Seuils de référence (athlètes « normaux »)
+- VMA (km/h) : 16.0 – 20.0
+- VO2max (ml/min/kg) : 60 – 85
+- FC_REPOS (bpm) : 40 – 70
+- FC_MAX (bpm) : ≤ 200
+- NIVEAU_STRESS (score) : ≤ 5.0
+
+On vous demande en premier de créer 5 constantes VMA, VO2MAX, FC_REPOS, FC_MAX et NIVEAU_STRESS.
+Chacune des constantes est sous forme de tuple dont la première valeur
+consiste la valeur minimale et la deuxième valeur est la valeur maximale. FC_MAX et
+NIVEAU_STRESS n’ont pas de valeur minimale. Dans ce cas, mettez la valeur minimale à *None*.
+
 Q05. Créer une fonction est_valide(valeur, seuil) qui prend en paramètre une valeur et seuil sous
-forme de tuple puis retourne True ou False si le patient présente une anomalie ou pas.
-Q06. Créer une fonction anomalies(bilan) qui prend en paramètre les informations d’un patient
-(bilan) et qui retourne sous forme de liste les paramètres anormaux d’un patient.
+forme de tuple puis retourne True ou False selon si l’athlète présente une anomalie ou non.
+
+Q06. Créer une fonction anomalies(bilan) qui prend en paramètre les informations d’un athlète
+(bilan) et qui retourne sous forme de liste les paramètres anormaux de cet athlète.
 Tout en exploitant les données, il est possible de créer des listes au besoin pour faciliter les calculs.
+
 Répondez aux questions suivantes. Vous pouvez tout faire en une seule boucle.
-Q07. Afficher le nombre de patients ayant au moins une anomalie.
-Q08. Combien de patients ont une glycémie élevée (hyperglycémiques)?
-Q09. Combien de patients ont un taux de cholestérol total élevé?
-Q10. Lister les identifiants des patients ayant une glycémie et un LDL élevés.
-Q11. Afficher le nombre de femmes et d’hommes dans l’échantillon.
-Q12. Quel est l’âge moyen des patients ayant une glycémie élevée?
-Q13. Quelle est la proportion de femmes parmi les patients ayant un LDL élevé?
+
+Q07. Afficher le nombre d’athlètes ayant au moins une anomalie
+
+Q08. Combien d’athlètes ont une VMA trop élevée ou trop faible ?
+
+Q09. Combien d’athlètes ont un VO2max en dehors des seuils ?
+
+Q10. Lister les identifiants des athlètes ayant une VMA et un NIVEAU_STRESS élevés
+
+Q11. Afficher le nombre de femmes et d’hommes dans l’échantillon
+
+Q12. Quel est l’âge moyen des athlètes ayant une VMA élevée ?
+
+Q13. Quelle est la proportion de femmes parmi les athlètes ayant un NIVEAU_STRESS élevé ?
+
 Voici un aperçu du résultat attendu dont il faut respecter l’affichage
+
 ---
 
 ### PARTIE 3 – Représentation graphique des données
