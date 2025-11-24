@@ -71,13 +71,13 @@ Voici la pondération des sections :
 
 - Cloner le répertoire GitHub Classroom dans PyCharm (voir le document Git sur LÉA au besoin)  
 - Votre code doit être dans le fichier `sportifs.py` fourni dans votre dépôt GitHub Classroom  
-- Inscrire le nom des membres de l'équipe, leur numéro de DA et leur nom d'utilisateur GitHub dans l'espace prévu à cet effet dans le fichier `tictactoe.py`
+- Inscrire le nom des membres de l'équipe, leur numéro de DA et leur nom d'utilisateur GitHub dans l'espace prévu à cet effet dans le fichier `sportifs.py`
 
 ---
 
 ## Contexte
 
-Vous disposez d’un fichier nommé sportifs_data_enrichi.txt contenant les résultats d’évaluations physiques et physiologiques de 300 sportifs suivis à l’Institut National du Sport (INS). 
+Vous disposez d’un fichier nommé sportifs_data_enrichi.csv contenant les résultats d’évaluations physiques et physiologiques de 300 sportifs suivis à l’Institut National du Sport (INS). 
 Les noms et les données de ce fichier sont fictifs.
 Chaque ligne du fichier correspond aux résultats d’un sportif, avec les colonnes suivantes :
 
@@ -86,7 +86,7 @@ ID, Nom, Prénom, Âge, Sexe, Discipline, VMA, VO2max, FC_REPOS, FC_MAX, PUISSAN
 **Signification des paramètres**
 
 | Variable          | Description                                                                 |
-|-------------------|------------------------------------------------------------------------------|
+|-------------------|-----------------------------------------------------------------------------|
 | ID                | Identifiant unique de l’athlète                                             |
 | Nom               | Nom de famille de l’athlète                                                 |
 | Prénom            | Prénom de l’athlète                                                         |
@@ -118,7 +118,7 @@ observations simples.
 **nom d’un fichier** contenant les données des athlètes et retourne une **liste** formée des données
 des athlètes (bilans) et une **liste** (entetes) contenant les informations de l’entête. Ces deux listes **ne doivent pas** contenir le premier élément (sans ID).
 Il est de votre responsabilité de définir la bonne structure (liste, dictionnaire ou autre, mais pas de
-DataFrame pandas) pour bilans adaptée pour stocker les données des athlètes.
+DataFrame pandas) pour bilans adaptés pour stocker les données des athlètes.
 
 |   | sportifs.py                      |
 |---|----------------------------------|
@@ -193,20 +193,21 @@ Voici un aperçu du résultat attendu dont il faut respecter l’affichage
 ### PARTIE 3 – Représentation graphique des données
 
 L’objectif de cette partie est d’explorer visuellement les résultats à l’aide de courbes et
-histogrammes vous n’avez le droit que pour le module matplotlib,
+histogrammes ; vous n’avez le droit d'utiliser que le module matplotlib.
+
 Q14. Écrire une fonction histogramme_repartition_age(bilans) qui prend en paramètre les
-données des patients (bilans) puis crée un histogramme de la répartition des patients par tranches
-d’âge (18–30, 31–45, etc.). Voici un aperçu de la courbe dont vous devez respecter (titre, axe des X,
+données des sportifs (bilans) puis crée un histogramme de la répartition des sportifs par tranches
+d’âge (18–20, 21–23, etc.). Voici un aperçu de la courbe dont vous devez respecter l'affichage (titre, axe des X,
 des Y, etc)
 
-Q15. Écrire une fonction courbe_glycemie_par_tranche(bilans) qui prends en paramètre les
-données des patients (bilans) puis crée puis trace une courbe qui montre le nombre des patients
-avec une glycémie par tranche d’âge. Vous devez respecter les mêmes informations sur la courbe
+Q15. Écrire une fonction courbe_vma_hors_norme_par_tranche(bilans) qui prend en paramètre les
+données des sportifs (bilans) puis crée puis trace une courbe qui montre le nombre de sportifs
+avec une VMA hors normes par tranche d’âge. Vous devez respecter les mêmes informations sur la courbe
 
-Q16. Écrire une fonction courbe_cholesterol_18_40(bilans), pour tracer une courbe montrant le
-nombre de patients de 18 à 40 inclusivement ayant un taux de cholestérol total supérieur à 2.0. Les
+Q16. Écrire une fonction courbe_agilite_elevee(bilans), pour tracer une courbe montrant le
+nombre de sportifs par âge ayant un score d'agilité supérieur à 85. Les
 mêmes informations de la courbe (titre, axes, etc.) doivent être respectés.
 
-Q17. On veut comparer entre les anomalies LDL et Glycémie par tranche d’âge. Créer une fonction
-histogramme_ldl_glycemie_par_tranche(bilans) qui permet de réaliser cette comparaison. Votre
-graphique doit ressembler à celui-ci
+Q17. On veut comparer entre les niveaux de stress entre les hommes et les femmes par tranche d’âge. Créer une fonction
+histogramme_niveau_stress_par_tranche(bilans) qui permet de réaliser cette comparaison. Votre
+graphique doit ressembler à celui-ci.
