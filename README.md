@@ -196,18 +196,26 @@ L’objectif de cette partie est d’explorer visuellement les résultats à l�
 histogrammes ; vous n’avez le droit d'utiliser que le module matplotlib.
 
 Q14. Écrire une fonction histogramme_repartition_age(bilans) qui prend en paramètre les
-données des sportifs (bilans) puis crée un histogramme de la répartition des sportifs par tranches
+données des athlètes (bilans) puis crée un histogramme de la répartition des athlètes par tranches
 d’âge (18–20, 21–23, etc.). Voici un aperçu de la courbe dont vous devez respecter l'affichage (titre, axe des X,
 des Y, etc)
 
+<img src="images/Q14.png" alt="Demo" style="border: 1px solid black; width: 500px;" />
+
 Q15. Écrire une fonction courbe_vma_hors_norme_par_tranche(bilans) qui prend en paramètre les
-données des sportifs (bilans) puis crée puis trace une courbe qui montre le nombre de sportifs
+données des athlètes (bilans) puis crée puis trace une courbe qui montre le nombre de athlètes
 avec une VMA hors normes par tranche d’âge. Vous devez respecter les mêmes informations sur la courbe
 
+<img src="images/Q15.png" alt="Demo" style="border: 1px solid black; width: 500px;" />
+
 Q16. Écrire une fonction courbe_agilite_elevee(bilans), pour tracer une courbe montrant le
-nombre de sportifs par âge ayant un score d'agilité supérieur à 85. Les
+nombre d'athlètes par âge ayant un score d'agilité supérieur à 85. Les
 mêmes informations de la courbe (titre, axes, etc.) doivent être respectés.
 
-Q17. On veut comparer entre les niveaux de stress entre les hommes et les femmes par tranche d’âge. Créer une fonction
-histogramme_niveau_stress_par_tranche(bilans) qui permet de réaliser cette comparaison. Votre
+<img src="images/Q16.png" alt="Demo" style="border: 1px solid black; width: 500px;" />
+
+Q17. On veut comparer entre les niveaux de stress entre les hommes et les femmes. Créer une fonction
+histogramme_niveau_stress(bilans) qui permet de réaliser cette comparaison. Votre
 graphique doit ressembler à celui-ci.
+
+<img src="images/Q17.png" alt="Demo" style="border: 1px solid black; width: 500px;" />
